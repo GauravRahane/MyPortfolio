@@ -5,4 +5,4 @@ I have a background in Manufacturing Engineering, Business Analysis and Statisti
 
 You can see more information in my CV.
 
-This repository was created to visualize analytical and technical skills (Excel, SQL, Power BI,Tableau, PowerPoint, and others).
+This repository was created to showcase mu competency and skills in Analytical and Technical Analytics as well as handling in various tools such as (Excel, SQL, Power BI,Tableau, PowerPoint, and others).
