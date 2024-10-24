@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/cad7038fe82e47f79c609.jpg" align="Right" width="300" height="300"/>
+<img src="https://files.catbox.moe/on47lc.png" align="Right" width="300" height="300"/>
 
 # Gaurav Rahane | Business Analyst
 
