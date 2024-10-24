@@ -1,4 +1,4 @@
-# Gaurav Rahane | Business Aanlyst
+# Gaurav Rahane | Business Analyst
 # About Me
 Hello Myself Gaurav Rahane, Dedicated Business Analyst versed in cutting-edge business analysis techniques. Committed proponent of applying novel approaches to traditional analytical tasks. Ready to leverage wide-ranging skills to design innovative business analysis procedures for companies' unique operational needs
 I love Analyzing different types of data, Provide Insights, and Representing it with beautiful visuals such as Animated Bar race etc.
