@@ -17,7 +17,7 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 * [Contacts](#contacts)
 
 * ## Certificates
-* [Agile Project Management Certificate](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Agile%20Project%20Management.pdf)
+* [Agile Project Management Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Agile%20Project%20Management.pdf)
 * [Six Sigma White belt Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Six%20sigma%20white%20belt.pdf)
 * [Business Intelligence Fundamentals Professional Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/BIFPC.pdf)
 
