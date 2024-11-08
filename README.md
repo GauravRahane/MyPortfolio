@@ -23,5 +23,5 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 * [Advanced Certification in Business Analytics](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/BA%20Certificate.pdf)
 
 * ## Contacts
-* Email : gauravrahane32@gmail.com
+* Email : gauravrahanee@gmail.com
 * Telegram : @Garyy00
