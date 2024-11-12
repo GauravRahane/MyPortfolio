@@ -17,7 +17,7 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 * [Contacts](#contacts)
 
 * ## Certificates
-* [Certified Scrum Product Owner (CSPO®) Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Agile%20Project%20Management.pdf)
+* [Certified Scrum Product Owner (CSPO®) Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Certified%20Scrum%20Product%20Owner%20Certification.pdf)
 * [Agile Project Management Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Agile%20Project%20Management.pdf)
 * [Six Sigma White belt Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/Six%20sigma%20white%20belt.pdf)
 * [Business Intelligence Fundamentals Professional Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/BIFPC.pdf)
