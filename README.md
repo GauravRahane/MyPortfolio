@@ -7,7 +7,7 @@ Hello Myself Gaurav Rahane, Dedicated Business Analyst versed in cutting-edge bu
 I love Analyzing different types of data, Provide Insights, and Representing it with beautiful visuals such as Animated Bar race etc.
 I have a background in Manufacturing Engineering, Business Analysis and Statistical data analysis.
 
-You can see more information in my [**CV**](https://github.com/GauravRahane/MyPortfolio/blob/main/Curriculum%20Vitae.pdf).
+You can see more information in my [**CV**](https://github.com/GauravRahane/MyPortfolio/blob/main/Curicculum%20Vitae.pdf).
 
 This repository was created to Showcase my Competency and Skills in Analytical and Technical Analytics as well as handling in various tools such as (Excel, SQL, Power BI, Tableau, PowerPoint, and others).
 
