@@ -26,7 +26,8 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 
 * ## Projects
 
-* [Tech Sales Data Analysis](
+* [Tech Sales Data Analysis](https://github.com/GauravRahane/MyPortfolio/blob/main/Projects/Tech%20Store%20Sales%20Analysis.ipynb)
+* [TMDb Ratings Analysis]
 
 * ## Contacts
 * Email : gauravrahanee@gmail.com
