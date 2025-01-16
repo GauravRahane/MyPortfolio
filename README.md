@@ -9,11 +9,12 @@ I have a background in Manufacturing Engineering, Business Analysis and Statisti
 
 You can see more information in my [**CV**](https://github.com/GauravRahane/MyPortfolio/blob/main/Curicculum%20Vitae.pdf).
 
-This repository was created to Showcase my Competency and Skills in Analytical and Technical Analytics as well as handling in various tools such as (Excel, SQL, Power BI, Tableau, PowerPoint, and others).
+This repository was created to Showcase my Competency and Skills in Analytical and Technical Analytics as well as handling in various tools such as (Excel, SQL, Power BI, Tableau, MS365, Figma, JIRA and others).
 
 ## Contents
 * [About me](#about-me)
 * [Certificates](#certificates)
+* [Projects](#projects)
 * [Contacts](#contacts)
 
 * ## Certificates
@@ -23,7 +24,13 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 * [Business Intelligence Fundamentals Professional Certification](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/BIFPC.pdf)
 * [Advanced Certification in Business Analytics](https://github.com/GauravRahane/MyPortfolio/blob/main/Certificates/BA%20Certificate.pdf)
 
+* ## Projects
+
+* [Tech Sales Data Analysis](
+
 * ## Contacts
 * Email : gauravrahanee@gmail.com
 * Telegram : @Garyy00
 * LinkedIn : https://linkedin.com/in/gauravrahanee
+
+* 
