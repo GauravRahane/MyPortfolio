@@ -34,6 +34,12 @@ This repository was created to Showcase my Competency and Skills in Analytical a
   top-performing products, and revenue growth opportunities, enabling data-driven decision-making for targeted marketing and sales strategies.
   
 * [TMDb Ratings Analysis](https://github.com/GauravRahane/MyPortfolio/blob/main/Projects/TMDb%20Project.pdf)
+
+  This project focused on analyzing movie ratings and audience trends using data from TMDb. Excel was used for initial data cleaning, preprocessing, and 
+  exploratory analysis to uncover patterns in genres, release years, and audience ratings. Power BI dashboards provided interactive and dynamic visualizations, 
+  including charts for average ratings, top-rated genres, and trends over time. Insights revealed correlations between ratings and factors such as release dates 
+  and genres, helping stakeholders understand audience preferences and market trends. The project enabled data-driven decisions for content recommendation and film 
+  production analysis.
   
 
 * ## Contacts
