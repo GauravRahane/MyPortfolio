@@ -44,7 +44,6 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 
 * ## Contacts
 * Email : gauravrahanee@gmail.com
-* Telegram : @Garyy00
 * LinkedIn : https://linkedin.com/in/gauravrahanee
 
  
