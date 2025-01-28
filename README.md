@@ -26,7 +26,7 @@ This repository was created to Showcase my Competency and Skills in Analytical a
 
 * ## Projects
 
-* [Tech Sales Data Analysis](https://github.com/GauravRahane/MyPortfolio/blob/main/Projects/Tech%20Store%20Sales%20Analysis.ipynb)
+* [Tech Sales Data Analysis](https://github.com/GauravRahane/MyPortfolio/blob/main/Projects/Tech%20Store%20Analysis.gif)
   
   This project focused on analyzing sales data to optimize revenue generation and improve sales strategies for a tech retail store. MySQL was used to clean, 
   organize, and query large datasets efficiently. Power BI dashboards were created to visualize key sales metrics, including daily revenue trends, sales by product 
